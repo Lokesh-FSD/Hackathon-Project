@@ -1,0 +1,8 @@
+.content {
+  display: flex;
+  height: 395px;
+  /* background-color: rgb(235, 235, 241); */
+  margin-top: 32px;
+  padding: 9px;
+  position: relative;
+}
